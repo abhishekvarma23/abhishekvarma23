@@ -1,8 +1,6 @@
 ### Hi! I'm Abhishek Varma 👋
 
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-[![GitHub abhishekvarma23](https://img.shields.io/github/followers/abhishekvarma23?label=follow&style=social)](https://github.com/abhishekvarma23)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+
 <!--
 **abhishekvarma23/abhishekvarma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
